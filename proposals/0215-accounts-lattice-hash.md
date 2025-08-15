@@ -8,12 +8,9 @@ authors:
   - Sam Kim
 category: Standard
 type: Core
-status: Accepted
+status: Activated
 created: 2024-12-20
-feature: LtHaSHHsUge7EWTPVrmpuexKz6uVHZXZL6cgJa7W7Zn
-development:
-  - Agave: Implemented (v2.2.0)
-  - Firedancer: Implemented (v0.2)
+feature: LTHasHQX6661DaDD4S6A2TFi6QBuiwXKv66fB1obfHq
 ---
 
 ## Summary
